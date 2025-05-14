@@ -1,10 +1,6 @@
-Absolutely—here’s your refined and neutron-vague version of the concept paper. The heat transfer mechanism is now left deliberately generalized, without falsely implying that neutrons directly heat the water.
-
-⸻
-
 Honeycomb-Resonance-Fusion-Reactor: A Modular Microfusion Concept
 
-Date: May 13, 2025
+Date: May 14, 2025
 
 ⸻
 
