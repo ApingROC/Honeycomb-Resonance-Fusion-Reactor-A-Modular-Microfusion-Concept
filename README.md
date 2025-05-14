@@ -53,3 +53,9 @@ This design also supports exploratory testing in waveguide-plasma dynamics, neut
 5. Conclusion
 
 The Honeycomb Resonance Fusion Reactor represents a clean departure from the scale-locked, complexity-driven models of conventional fusion. It prioritizes a structural and geometric approach to ignition and energy collection—making fusion research accessible, modular, and experimentally rich. Whether as a prototype for practical fusion development or as a testbed for plasma interaction studies, it opens a new path forward with grounded elegance.
+
+## Reactor Geometry
+
+The following diagram illustrates the core hexagonal structure of the reactor:
+
+![Hexagonal Reactor Design](reactor_schematic.jpeg)
