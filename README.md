@@ -35,7 +35,11 @@ The combination of geometric symmetry, localized magnetics, and directional coup
 
 3. Operational Mode
 
-The system runs in pulsed ignition cycles, where microwave bursts induce short-lived plasma reactions within the fuel chambers. This intermittent approach reduces material fatigue, simplifies power modulation, and allows passive decay between cycles. By precisely managing plasma lifetimes, the system avoids uncontrolled wall contact while allowing for measurable energy yield. A simplified thermal capture mechanism routes usable heat for downstream conversion, with no requirement for elaborate intermediate systems.
+The system runs in pulsed ignition cycles, where microwave bursts induce short-lived plasma reactions within the fuel chambers. This intermittent approach reduces material fatigue, simplifies power modulation, and allows passive decay between cycles. By precisely managing plasma lifetimes, the system avoids uncontrolled wall contact while allowing for measurable energy yield.
+
+In addition to uniform pulsing, the system supports sequential slot activation (“chase-the-tail” mode). In this configuration, microwave energy is cycled around the hexagonal structure in a rotating sequence, producing a traveling wave of localized ignition zones. This distributes thermal load, sustains plasma activity, and reduces impedance-related reflection losses. Alternatively, symmetric dual or triple slot firing (akin to a six-piston engine) can be used for balanced excitation and synchronized field coupling. These dynamic firing patterns provide an additional control layer, allowing for adaptive response to plasma behavior without the need for real-time frequency tuning.
+
+A simplified thermal capture mechanism routes usable heat for downstream conversion, with no requirement for elaborate intermediate systems.
 
 ⸻
 
@@ -44,6 +48,7 @@ The system runs in pulsed ignition cycles, where microwave bursts induce short-l
 	•	Slot placement on flat faces enhances coupling and simplifies construction
 	•	Modular design allows for scalability, replication, and local fault isolation
 	•	Pulsed mode operation supports both experimentation and practical endurance
+	•	Sequential and symmetric slot firing allow field shaping, thermal distribution, and timing control
 	•	Entire architecture is compatible with conventional manufacturing, enabling a feasible prototype within a modest budget
 
 This design also supports exploratory testing in waveguide-plasma dynamics, neutron moderation strategies, and alternative field geometries.
@@ -53,6 +58,7 @@ This design also supports exploratory testing in waveguide-plasma dynamics, neut
 5. Conclusion
 
 The Honeycomb Resonance Fusion Reactor represents a clean departure from the scale-locked, complexity-driven models of conventional fusion. It prioritizes a structural and geometric approach to ignition and energy collection—making fusion research accessible, modular, and experimentally rich. Whether as a prototype for practical fusion development or as a testbed for plasma interaction studies, it opens a new path forward with grounded elegance.
+
 
 ## Reactor Geometry
 
