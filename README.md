@@ -58,4 +58,4 @@ The Honeycomb Resonance Fusion Reactor represents a clean departure from the sca
 
 The following diagram illustrates the core hexagonal structure of the reactor:
 
-![Hexagonal Reactor Design](reactor_schematic.jpeg)
+![Hexagonal Reactor Design](IMG_3940.jpeg)
